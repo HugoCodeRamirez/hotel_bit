@@ -1,0 +1,20 @@
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+.nosotros{
+    width: 500px;
+    height: 300px;
+
+}
+.nosotrosx{
+    width: 450px;
+    height: 430px;
+
+}
+.titulo{
+    text-align: center;
+}
+.parrafo1{
+    text-align: justify;
+}
