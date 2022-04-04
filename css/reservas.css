@@ -3,7 +3,7 @@
     font-family: 'Dosis', sans-serif;
 }
 
-body{
+body {
     background: url(/img/RESERVAS.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -31,6 +31,7 @@ body{
 body {
     overflow-x: hidden;
 }
+
 .navbar,
 .collapse {
     font-family: sans-serif;
@@ -38,23 +39,29 @@ body {
     font-size: 20px;
     justify-content: space-between;
 }
+
 .logo {
     width: 120px;
     height: 70px;
     object-fit: cover;
 }
+
 .fa-solid {
     position: relative;
+    top: 5px;
+    margin-right: 2px;
 }
+
 #navbarNavDropdown {
     transform: translate(50px, 20px);
 }
+
 .nav-item {
     margin-right: 200px;
 }
 
 .hvr-underline-from-center {
-    background-color: #225dba;
+    background-color: #0f4396;
 }
 
 @media (max-width:800px) {
