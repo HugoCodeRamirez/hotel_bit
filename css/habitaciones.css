@@ -15,3 +15,34 @@
     justify-content: end;
     align-items: center;
 }
+.navbar,
+.collapse {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.logo {
+    width: 120px;
+    height: 70px;
+    object-fit: cover;
+}
+.fa-solid {
+    position: relative;
+}
+#navbarNavDropdown {
+    transform: translate(50px, 20px);
+}
+.nav-item {
+    margin-right: 200px;
+}
+
+.hvr-underline-from-center {
+    background-color: #225dba;
+}
+
+@media (max-width:800px) {
+    #navbarNavDropdown {
+        transform: translate(50px, 20px);
+    }
+}
