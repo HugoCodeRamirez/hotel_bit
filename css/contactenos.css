@@ -18,6 +18,10 @@ padding-top: 40px;
 .btn{
     background-color: #73CBD8
 }
+
+body {
+    overflow-x: hidden;
+}
 .navbar,
 .collapse {
     font-family: sans-serif;

@@ -19,6 +19,10 @@
 .parrafo1{
     text-align: justify;
 }
+
+body {
+    overflow-x: hidden;
+}
 .navbar,
 .collapse {
     font-family: sans-serif;

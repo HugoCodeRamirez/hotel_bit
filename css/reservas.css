@@ -27,6 +27,10 @@ body{
     font-family: 'Dosis', sans-serif;
     background-color: #b1e6ee;
 }
+
+body {
+    overflow-x: hidden;
+}
 .navbar,
 .collapse {
     font-family: sans-serif;
