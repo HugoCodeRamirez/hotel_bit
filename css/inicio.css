@@ -74,6 +74,10 @@ body {
     background-color: #0f4396;
 }
 
+.h {
+    text-decoration: none;
+}
+
 @media (max-width:800px) {
     #navbarNavDropdown {
         transform: translate(50px, 20px);
